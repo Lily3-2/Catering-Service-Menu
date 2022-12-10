@@ -1,5 +1,6 @@
 # Catering-Service-Menu
-Food can be ordered through different items available in the list using C.
+
+This code provides a simple way to order food through the items available in a list. This code fully uses C language.
 
 
 #include <stdio.h>
